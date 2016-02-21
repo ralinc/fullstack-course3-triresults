@@ -1,4 +1,4 @@
-# Assignment: Mongoid and Rails Scaffold
+== Assignment: Mongoid and Rails Scaffold
 
 This assignment will evaluate your ability to implement a data tier using Mongoid and integrate that into a Rails controller and view.
 
